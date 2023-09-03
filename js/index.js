@@ -27,4 +27,4 @@ const setInnerText = (id,text) =>{
     document.getElementById(id).innerText = text;
 }
 
-loadTemperature()
+loadTemperature('Dhaka')
